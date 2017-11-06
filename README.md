@@ -6,7 +6,7 @@ Traccar Manager is a mobile application to manage GPS tracking devices. It requi
 
 ## Team
 
-- Anton Tananaev ([anton@traccar.org](mailto:anton@traccar.org))
+- 
 
 ## License
 
