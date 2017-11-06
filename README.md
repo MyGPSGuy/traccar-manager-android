@@ -1,6 +1,4 @@
-# [Traccar Manager for Android](https://www.traccar.org)
-
-[![](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=org.traccar.manager)
+# [Traccar Manager for Android (unofficial)](https://www.traccar.org)
 
 ## Overview
 
